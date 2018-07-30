@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="login.master.cs" Inherits="SYSTEMS_SUBSTORE.login" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %></title>
+    <link href="~/Content/Site.css" rel="stylesheet" /> 
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                   ONLINE SUBSTORE MANAGEMENT SYSTEM
+                </h1>
+            </div>
+            <div class="loginDisplay">
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                                           
+                      
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="foter">
+        
+    </div>
+    </form>
+</body>
+</html>

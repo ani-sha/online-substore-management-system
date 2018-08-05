@@ -1,0 +1,177 @@
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.dll.config
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.pdb
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.exe
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.exe.config
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.rsp
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.exe
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.exe.config
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.rsp
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.AppContext.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Collections.Immutable.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Console.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.Process.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.Compression.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.Pipes.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.AccessControl.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Claims.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Threading.Thread.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.ValueTuple.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XPath.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.exe
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.exe.config
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.rsp
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\VBCSCompiler.exe
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\VBCSCompiler.exe.config
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\AjaxControlToolkit.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csprojAssemblyReference.cache
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csproj.CoreCompileInputs.cache
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csproj.CopyComplete
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.dll
+D:\Training Project\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.pdb
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.dll.config
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.pdb
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.exe
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.exe.config
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.rsp
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.exe
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.exe.config
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.rsp
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.AppContext.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Collections.Immutable.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Console.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.Process.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.Compression.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.Pipes.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.AccessControl.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Claims.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Threading.Thread.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.ValueTuple.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XPath.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.exe
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.exe.config
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.rsp
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\VBCSCompiler.exe
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\VBCSCompiler.exe.config
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\AjaxControlToolkit.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csprojAssemblyReference.cache
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csproj.CoreCompileInputs.cache
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csproj.CopyComplete
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.dll
+D:\Training Project\New folder\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.pdb
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.dll.config
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\SYSTEMS SUBSTORE.pdb
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.exe
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.exe.config
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csc.rsp
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.exe
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.exe.config
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\csi.rsp
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.AppContext.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Collections.Immutable.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Console.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.Process.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.Compression.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.IO.Pipes.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Reflection.Metadata.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.AccessControl.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Claims.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Threading.Thread.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.ValueTuple.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XPath.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.exe
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.exe.config
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\vbc.rsp
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\VBCSCompiler.exe
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\roslyn\VBCSCompiler.exe.config
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\AjaxControlToolkit.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csprojAssemblyReference.cache
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csproj.CoreCompileInputs.cache
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.csproj.CopyComplete
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.dll
+D:\Training Project\ONLINE SUBSTORE PROJECT\SYSTEMS SUBSTORE\SYSTEMS SUBSTORE\obj\Debug\SYSTEMS SUBSTORE.pdb

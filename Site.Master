@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SYSTEMS_SUBSTORE.Site" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title><%: Page.Title %></title>
+    <link href="~/Content/Site.css" rel="stylesheet" /> 
+    <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                   ONLINE SUBSTORE MANAGEMENT SYSTEM
+                </h1>
+            </div>
+            <div class="loginDisplay">
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+					
+					<Items>
+                        <asp:MenuItem NavigateUrl="http://localhost:52542/Admin_CR.aspx" Text="CREATE NEW REQUISITION">
+							       
+                        </asp:MenuItem>
+						<asp:MenuItem NavigateUrl="http://localhost:52542/Admin_Status.aspx" Text="PENDING STATUS"></asp:MenuItem>
+						<asp:MenuItem NavigateUrl="http://localhost:52542/Admin_app.aspx" Text="APPROVE USER'S REQUISITION "></asp:MenuItem>                       
+						<asp:MenuItem NavigateUrl="http://localhost:52542/Mat_Master.aspx" Text="ADD NEW STOCK"></asp:MenuItem>                       
+                         <asp:MenuItem NavigateUrl="http://localhost:52542/Mat_Master1.aspx" Text="ADD QUANTITY TO EXISTING STOCK"></asp:MenuItem> 
+						  
+                         <asp:MenuItem NavigateUrl="http://localhost:52542/Admin_Central.aspx" Text="APPROVAL FOR CENTRAL STORE"></asp:MenuItem> 
+						<asp:MenuItem NavigateUrl="" Text="REPORT">
+						    <asp:MenuItem NavigateUrl="http://localhost:52542/Dept_Substore.aspx" Text="DEPARTMENT WISE"></asp:MenuItem> 
+						     <asp:MenuItem NavigateUrl="http://localhost:52542/Report_substore.aspx" Text="PERSONAL NO WISE" Value="Logout"></asp:MenuItem>
+						</asp:MenuItem> 
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="foter">
+        
+    </div>
+    </form>
+</body>
+</html>
